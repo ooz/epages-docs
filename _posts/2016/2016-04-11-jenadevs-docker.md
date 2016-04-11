@@ -11,9 +11,12 @@ authors: ["Benjamin and Oliver Z."]
 
 (will be shown in article list.. befor clicking the link) 
 
-## General - Oliver
+## Location and People - Oliver
 
-basic setup, rooms, participants
+[//]: # (Notes Oliver: still to many sentences listing a series of items/topics.)
+
+The meetup took place in the ePages Jena office. The company provided conference rooms, demo machines, snacks, various drinks and pizza.
+Despite the short notice 35 attendees followed the call. The participants were a diverse group of local and transstate developers, freelancers, college students and ePagees.
 
 * ePages hosted the first Softwerkskammer Jena meetup last thursday
 * the Softwerkskammer is a group of developers caring about software craftsmanship 
@@ -21,10 +24,11 @@ basic setup, rooms, participants
 * despite short notice: 35 attendees
 
 
-## Talk - Oliver
+## The Talk - Oliver
 
-about the presenatation
+After a short introduction about the Softwerkskammer and Docker in general, the talk focussed on basic commands, use cases and best practises. The latter were based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as our experiences with developing, testing, integrating, deploying and running a large e-Commerce platform.
 
+If you missed the presentation you can read it up on [GitHub](https://github.com/jenadevs/jenadevs-001-docker-party/tree/master/talk).
 
 ## Containers, Containers, Con... err Workshops, Workshops, Workshops! - Benjamin
 
@@ -41,6 +45,9 @@ about the presenatation
 
 ## Beginner Workshop - Oliver
 
+The goal of the beginner workshop was to setup the Docker environment, learn the basic commands, run the workflow and get familiar with Docker Compose.
+For this the participants followed the [official Docker birthday tutorial](https://github.com/docker/docker-birthday-3/blob/master/tutorial.md) while multiple more experienced ePagees offered assistance.
+As kittens bustled around the screens, the Docker newbies built simple web applications using the Python microframework [Flask](http://flask.pocoo.org/) -- all running in a container, of course.
 
 
 ## Advanced Workshop - Benjamin
