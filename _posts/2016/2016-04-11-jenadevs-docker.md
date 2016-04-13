@@ -7,18 +7,13 @@ categories: events
 authors: ["Benjamin and Oliver Z."]
 ---
 
-Last Thursday the newly founded Softwerkskammer Jena launched with the first Jena Developers Meetup. Over 30 attendees including the orga team followed the invitation to the Docker Party with an introduction talk and 3 workshops for all skill levels. ePages took the opportunity to be the first event host. Besides providing the conference rooms and sponsoring snacks, various drink - including club mate of course and free pizza for all, also serveral workstation laptops could be offered for doing the special workshop as well. 
-
+Last Thursday the newly founded Softwerkskammer Jena launched with the first Jena Developers Meetup. Over 30 attendees from a dozen of companies including the orga team around Jena followed the invitation to the Docker Party with an introduction talk and 3 workshops for all skill levels. The ePages took the opportunity to be the first event host. Besides providing the conference rooms and sponsoring snacks, various drink - including club mate of course and free pizza for all, also serveral workstation laptops could be offered for doing the special workshop as well.
 
 ## Location and People
 
-[//]: # (Notes Oliver: still to many sentences listing a series of items/topics.)
+Still to many sentences listing a series of items, topics. Enjoyed listing to talks and coding along in serveral prepared workshops for different skill levels. Currently the organization team consists of 8 developers. 
 
-
-enjoyed listing to talks and coding along in serveral prepared workshops for different skill levels. Currently the organization team consists of 8 developers.
-
-their time with the newly founded Softwerkskamer Jena - a local Software Craftsmanship Community.
-
+Their time with the newly founded Softwerkskamer Jena - a local Software Craftsmanship Community.
 
 The meetup took place in the ePages Jena office. The company provided conference rooms, demo machines, snacks, various drinks and pizza.
 Despite the short notice 35 attendees including 8 supporters from ePages followed the call. 
