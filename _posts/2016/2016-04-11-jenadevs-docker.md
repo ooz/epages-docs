@@ -7,11 +7,16 @@ categories: events
 authors: ["Benjamin and Oliver Z."]
 ---
 
-Last Thursday the newly founded Softwerkskammer Jena launched with the first Jena Developers Meetup. Over 30 attendees from a dozen of companies including the orga team around Jena followed the invitation to the Docker Party with an introduction talk and 3 workshops for all skill levels. The ePages took the opportunity to be the first event host. Besides providing the conference rooms and sponsoring snacks, various drink - including club mate of course and free pizza for all, also serveral workstation laptops could be offered for doing the special workshop as well.
+Last Thursday the newly founded Softwerkskammer Jena launched with the first Jena Developers Meetup. 
+Over 30 attendees from a dozen of companies including the orga team around Jena followed the invitation to the Docker Party with an introduction talk and 3 workshops for all skill levels. 
+The ePages GmbHtook the opportunity to be the first event host. 
+Besides providing the conference rooms and sponsoring snacks, various drink - including club mate of course and free pizza for all, also serveral workstation laptops could be offered for doing the special workshop as well.
 
 ## Location and People
 
-Still to many sentences listing a series of items, topics. Enjoyed listing to talks and coding along in serveral prepared workshops for different skill levels. Currently the organization team consists of 8 developers. 
+Still to many sentences listing a series of items, topics. 
+Enjoyed listening to talks and coding along in serveral prepared workshops for different skill levels. 
+Currently the organization team consists of 8 developers. 
 
 Their time with the newly founded Softwerkskamer Jena - a local Software Craftsmanship Community.
 
@@ -27,7 +32,8 @@ The participants were a diverse group of local and transstate developers (from d
 
 ## The Talk
 
-After a short introduction about the Softwerkskammer and Docker in general, the talk focused on basic commands, use cases and best practises. The latter were based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as our experiences with developing, testing, integrating, deploying and running a large e-Commerce platform.
+After a short introduction about the Softwerkskammer and Docker in general, the talk focused on basic commands, use cases and best practises. 
+The latter were based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as our experiences with developing, testing, integrating, deploying and running a large e-Commerce platform.
 
 If you missed the presentation you can look it up on [GitHub](https://github.com/jenadevs/jenadevs-meetup-001-docker-party).
 
