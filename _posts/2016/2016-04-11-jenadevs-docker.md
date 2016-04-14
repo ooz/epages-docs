@@ -29,6 +29,13 @@ The participants were a diverse group of local and transstate developers (from a
 
 After a short introduction about the Softwerkskammer and Docker in general, the talk focussed on basic commands, use cases and best practises. The latter were based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as our experiences with developing, testing, integrating, deploying and running a large e-Commerce platform.
 
+The workflow and key terms like dockerfiles, images and containers were demonstrated by a flipchart drawing:
+{% image blog/foobar.png %}{% endimage %}
+
+There was also a live demo of the ePages CI/CD pipeline.
+
+[//]: # (Question: name speaker Benjamin and demo by Christian Köhler?)
+
 If you missed the presentation you can read it up on [GitHub](https://github.com/jenadevs/jenadevs-001-docker-party/tree/master/talk).
 
 ## Containers, Containers, Con... err Workshops, Workshops, Workshops! - Benjamin
@@ -49,6 +56,10 @@ If you missed the presentation you can read it up on [GitHub](https://github.com
 The goal of the beginner workshop was to setup the Docker environment, learn the basic commands, run the workflow and get familiar with Docker Compose.
 For this the participants followed the [official Docker birthday tutorial](https://github.com/docker/docker-birthday-3/blob/master/tutorial.md) while the more experienced ePagees Benjamin Nothdurft and Kay Abendroth offered assistance.
 As kittens bustled around the screens, the Docker newbies built simple web applications using the Python microframework [Flask](http://flask.pocoo.org/) -- all running in a container, of course.
+
+Since running only one container at a time is pretty boring, the tutorial outlined first steps with Docker Compose, too. The task then was to create a voting application using multiple ...
+
+Further down the road ...
 
 
 ## Advanced Workshop - Benjamin
