@@ -7,12 +7,17 @@ categories: events
 authors: ["Benjamin and Oliver Z."]
 ---
 
-Last Thursday the newly founded Softwerkskammer Jena launched with the first Jena Developers Meetup. 
-Over 30 attendees from a dozen of companies including the orga team around Jena followed the invitation to the Docker Party with an introduction talk and 3 workshops for all skill levels. 
-The ePages GmbHtook the opportunity to be the first event host. 
-Besides providing the conference rooms and sponsoring snacks, various drink - including club mate of course and free pizza for all, also serveral workstation laptops could be offered for doing the special workshop as well.
+On the first Thursday of April the newly founded Softwerkskammer Jena had its first Developers Meetup. 
+ePages took the opportunity to be the event host and provide not just conference rooms and serveral workstation laptops but also free pizza, snacks, Club-Mate and some other refreshments for everyone.
+Over 30 attendees from a dozen of companies from the area of Jena followed the invitation to the Docker Party and joined the orga team for 4 hours of coding fun from 6 pm until nearly 10 pm with an open end at the local pub, where the devotedly discussions lasted until 2 am in the morning.
 
-## Location and People
+## Agenda
+
+At the beginning there was a short period of spare time for meet and greet and a brief introduction about the Softwerkskammer, its current distribution and helpful contact information followed. 
+
+Then the Docker Party itself launched! It consisted of an one hour of technological introduction talk with some short demonstration and and 3 workshops for all skill levels and some free time to network.
+
+
 
 Still to many sentences listing a series of items, topics. 
 Enjoyed listening to talks and coding along in serveral prepared workshops for different skill levels. 
