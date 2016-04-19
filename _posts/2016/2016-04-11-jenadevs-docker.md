@@ -24,7 +24,7 @@ It consisted of an one hour talk including a demo to introduce the technological
   - **Special:** CoresOS Cluster Workshop
   - **Hidden - also known as exploding kittens:** Orchestration Workshop by [Jérôme Petazzoni](https://twitter.com/jpetazzo), the creater of [Docker-in-Docker](https://github.com/jpetazzo/dind) 
 
-## The introduction talk with demo and best practises
+## Introduction talk with demo and best practises
 
 The talk in the first place focused on the Docker basics, the components of the Docker ecosystem and the general tooling workflow of building images, running containers and pushing them to the Docker Hub. 
 Afterwards the basic commands were demonstrated with some live coding on the terminal, where several containers were also inspected at runtime.
