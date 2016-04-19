@@ -14,7 +14,7 @@ They joined the orga team of 8 developers for 4 hours of coding fun from 6 pm un
 
 ## Agenda
 
-At the beginning there was a short period of spare time for meet and greet as well as a brief introduction about the [Softwerkskammer](softwerkskammer.org) – the german part of the [Software Craftsmanship Community](http://manifesto.softwarecraftsmanship.org) – and its current distribution with some helpful contact information like the [@jenadevs Twitter account](https://twitter.com/jenadevs). 
+At the beginning there was a short period of spare time for meet and greet as well as a brief introduction about the [Softwerkskammer](softwerkskammer.org) – the german part of the [Software Craftsmanship Community](http://manifesto.softwarecraftsmanship.org) – and its current distribution with some helpful contact information like the [@jenadevs](https://twitter.com/jenadevs) account on Twitter. 
 
 Then the Docker Party, which celebrated the [3rd birthday of Docker](https://www.docker.com/community/docker-birthday-3), was launched! 
 It consisted of an one hour talk including a demo to introduce the technological foundation and nearly three hours of different workshops for every skill level:
@@ -33,17 +33,17 @@ This was a good entrypoint to also show some of our typical use cases at ePages,
 
 ## Containers, Containers, Con... err Workshops, Workshops, Workshops!
 
-Upfront, all necessary material and code for the workshops was hosted on the [jenadevs GitHub account](https://github.com/jenadevs) and even the [complete presentation](https://github.com/jenadevs/jenadevs-meetup-001-docker-party) is offered for free and as open-source.
+Upfront, all necessary material and code for the workshops was hosted on the jenadevs [GitHub](https://github.com/jenadevs) account which even offers the [complete presentation](https://github.com/jenadevs/jenadevs-meetup-001-docker-party). _Great news: All material of **jenadevs** is free and will always be open-source!_
 
 ### Beginner Workshop
 
 The goal of the beginner workshop was to setup the Docker environment, learn the basic commands, run the workflow and get familiar with Docker Compose.
-For this the participants followed the [official Docker birthday tutorial](https://github.com/docker/docker-birthday-3/blob/master/tutorial.md) while the more experienced ePagees Benjamin Nothdurft and Kay Abendroth offered assistance.
+For this the participants followed the [official Docker birthday tutorial](https://github.com/docker/docker-birthday-3/blob/master/tutorial.md) while the more experienced Docker users, Benjamin Nothdurft and Kay Abendroth offered assistance.
 As kittens bustled around the screens, the Docker newbies built simple web applications using the Python microframework [Flask](http://flask.pocoo.org/) -- all running in a container, of course.
 
 ### Advanced Workshop
 
-This workshop focused on writing your own Dockerfiles and testing the build of the image and run the containers with CircleCI. Bastian Klein prepared a empty Dockerfile and Circle file with comments only, where he had removed the implementation. The attendes then had to figure out how the Dockerfile commands needed to be configured under the guidance of the workshop maintainer.
+This workshop focused on writing your own Dockerfiles and testing the build of the image and run the containers with [CircleCI](https://circleci.com). Bastian Klein prepared an empty Dockerfile and Circle.yml with comments only, where he had removed the implementation. The attendes then had to figure out how the Dockerfile commands needed to be configured under the guidance of the workshop maintainer.
 
 ### Special Workshop
 
