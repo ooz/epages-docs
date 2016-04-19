@@ -8,7 +8,7 @@ authors: ["Benjamin and Oliver Z."]
 ---
 
 On the first Thursday of April the newly founded [Softwerkskammer Jena](https://www.softwerkskammer.org/groups/jena) had its first [Developers Meetup](www.meetup.com/jenadevs). 
-ePages took the opportunity to be the event host and provide not just conference rooms and serveral workstation laptops but also free pizza, snacks, Club-Mate and some other refreshments for everyone.
+ePages took the opportunity to be the event host and provide not just conference rooms and serveral workstation laptops but also free pizza, snacks, [Club-Mate](https://de.wikipedia.org/wiki/Club-Mate) and some other refreshments for everyone.
 Despite the short notice over 30 attendees from a dozen of companies from the area of Jena, university students and even some freelancers followed the invitation to the Docker Party. 
 They joined the orga team of 8 developers for 4 hours of coding fun from 6 pm until nearly 10 pm with an open end at the local pub, where the devotedly discussions lasted until 2 am in the morning.
 
@@ -50,10 +50,20 @@ This workshop focused on writing your own Dockerfiles, run the containers and in
 The most experienced Dockers gathered together in the special workshop, where the main focus was a bit shifted. We had prepared three worstation laptops. Andreas Grohman introduced CoreOS to the each participant. The goal was to setup a cluster environment with three nodes and run Docker on it. Everyone succeeded.
 Afterwards Christian Köhler gave an insight on how to configure Kubernetes with a short demonstration. He also distinctly outlined the advantages to Docker Swarm.
 
-## Summary and Outlook
+## Summary 
 
-* try to install this as a regular platform: first thursday every month
-* next up: coding dojo with a kata
-* after that: functional programming
+In retropect the first event of [jenadevs](https://twitter.com/jenadevs) was a total success. Every participant had the possibilty to have fun, meet other devs and learn something new. Besides the beginners, which had the possibility to finish their well-documented tutoial at home, all participants could under the cautious eyes of our tutors finish all workshop tasks with happy results. So it was obvious that a lot of guests went parts of the orga team to the next bar and just talked about the expierience in their developer life, their favorite editors and some more nerdery stuff.
 
 Thanks to all attendees and ePages coworkers for making this happen!
+
+## Next Meetup
+
+The goal of the Softwerkskammer Jena is to esablish a plattform for regular meetings. So we already arranged the next Meetup! 
+
+This time it is going to be a classical [Coderetreat](http://coderetreat.org) with a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) basics talk and demo upfront. Then the participants can choose again between different groups where katas in 45-minute-rounds of [coding dojo](http://ccd-school.de/coding-dojo/) with the application of [constraints](http://coderetreat.org/facilitating/activity-catalog) and [pair programming](https://en.wikipedia.org/wiki/Pair_programming) as well as different team mates per round.
+
+We are very happy that [Marco Emrich](https://twitter.com/marcoemrich) from the [Softwerkskammer Nürnberg](https://www.softwerkskammer.org/groups/nuernberg) will join us - one of the best trainers and an experienced Coderetreat facilitators - we cannot imagine anyone better to help the participants understand how to the start with the test first approach!
+
+Save the date: We are doing this whole-day-event on Saturday, the 21st of May 2016! 
+
+Feel free to already [join](www.meetup.com/jenadevs). 
