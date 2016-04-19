@@ -14,7 +14,7 @@ They joined the orga team of 8 developers for 4 hours of coding fun from 6 pm un
 
 ## Agenda
 
-At the beginning there was a short period of spare time for meet and greet as well as a brief introduction about the [Softwerkskammer](softwerkskammer.org) – the german part of the [Software Craftsmanship Community](http://manifesto.softwarecraftsmanship.org) – and its current distribution with some helpful [twitter](https://twitter.com/jenadevs) contact information. 
+At the beginning there was a short period of spare time for meet and greet as well as a brief introduction about the [Softwerkskammer](softwerkskammer.org) – the german part of the [Software Craftsmanship Community](http://manifesto.softwarecraftsmanship.org) – and its current distribution with some helpful contact information like the [@jenadevs Twitter account](https://twitter.com/jenadevs). 
 
 Then the Docker Party, which celebrated the [3rd birthday of Docker](https://www.docker.com/community/docker-birthday-3), was launched! 
 It consisted of an one hour talk including a demo to introduce the technological foundation and nearly three hours of different workshops for every skill level:
@@ -22,16 +22,18 @@ It consisted of an one hour talk including a demo to introduce the technological
   1. **Beginner:** The official Docker birthday app tutorial
   - **Advanced:** Building your own Dockerfile with integration tests after best practises
   - **Special:** CoresOS Cluster Workshop
-  - **Hidden - also known as exploding kittens:** Orchestration Workshop by [Jérôme Petazzoni](https://twitter.com/jpetazzo), the creater of (Docker-in-Docker)[https://github.com/jpetazzo/dind] 
+  - **Hidden - also known as exploding kittens:** Orchestration Workshop by [Jérôme Petazzoni](https://twitter.com/jpetazzo), the creater of [Docker-in-Docker](https://github.com/jpetazzo/dind) 
 
 ## The introduction talk with demo and best practises
 
 The talk in the first place focused on the Docker basics, the components of the Docker ecosystem and the general tooling workflow of building images, running containers and pushing them to the Docker Hub. 
 Afterwards the basic commands were demonstrated with some live coding on the terminal, where several containers were also inspected at runtime.
 The second part of the talk considered some best practises for wrtiting your own Dockerfile, which was based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as the experiences of [epagesdevs](http://twitter.com/epagesdevs) with developing, testing, integrating, deploying and running supportive images for our eCommerce platform. 
-This was a good entrypoint to also show some of our typical use cases at ePages, e.g. in the Continuous Delivery Pipeline, at integration testing or in the Operations area for our own and provider infrastructure which also relies on [Kubeneretes](http://kubernetes.io). To finish the talk some typical base images and official app environment images were discussed, too. If you missed the presentation you can look it up on [GitHub](https://github.com/jenadevs/jenadevs-meetup-001-docker-party).
+This was a good entrypoint to also show some of our typical use cases at ePages, e.g. in the Continuous Delivery Pipeline, at integration testing or in the Operations area for our own and provider infrastructure which also relies on [Kubeneretes](http://kubernetes.io). To finish the talk some typical base images and official app environment images were discussed, too. 
 
 ## Containers, Containers, Con... err Workshops, Workshops, Workshops!
+
+Upfront, all necessary material and code for the workshops was hosted on the [jenadevs GitHub account](https://github.com/jenadevs) and even the [complete presentation](https://github.com/jenadevs/jenadevs-meetup-001-docker-party) is offered for free and as open-source.
 
 ### Beginner Workshop
 
