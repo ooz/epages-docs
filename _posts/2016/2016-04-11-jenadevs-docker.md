@@ -43,7 +43,7 @@ As kittens bustled around the screens, the Docker newbies built simple web appli
 
 ### Advanced Workshop
 
-This workshop focused on writing your own Dockerfiles, run the containers and integration testing with [CircleCI](https://circleci.com). Bastian Klein prepared an empty [Magento](https://magento.com) Dockerfile and Circle.yml with comments only, where he had removed the implementation. The attendes then had to figure out how the Dockerfile commands needed to be configured under the guidance of the workshop maintainer.
+This workshop focused on writing your own Dockerfiles, run the containers and integration testing with [CircleCI](https://circleci.com). Bastian Klein prepared an empty custom [Magento](https://magento.com) `Dockerfile  and  Circle.yml` with comments only, where he had removed the implementation. The attendes then had to figure out how the Dockerfile commands needed to be configured under the guidance of the workshop maintainer.
 
 ### Special Workshop
 
