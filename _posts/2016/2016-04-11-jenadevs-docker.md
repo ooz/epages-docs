@@ -47,7 +47,7 @@ This workshop focused on writing your own Dockerfiles and testing the build of t
 
 ### Special Workshop
 
-The most expierenced Dockers gathered together in workshop, where the main foxus was abit shifted. We had prepared three worstation laptops. And Andreas Grohman introduced CoreOS to the each participant. The goal was to setup a cluster environment with three nodes and run Docker on it. Everyone succeeded.
+The most experienced Dockers gathered together in the special workshop, where the main focus was a bit shifted. We had prepared three worstation laptops. And Andreas Grohman introduced CoreOS to the each participant. The goal was to setup a cluster environment with three nodes and run Docker on it. Everyone succeeded.
 
 Afterwards Christian Köhler gave an insight on how to configure Kubernetes with a short demonstration. He also distinctly outlined the advantages to Docker Swarm.
 
