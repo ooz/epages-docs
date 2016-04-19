@@ -33,7 +33,7 @@ This was a good entrypoint to also show some of our typical use cases at ePages,
 
 ## Containers, Containers, Con... err Workshops!
 
-Upfront, all necessary material and code for the workshops was hosted on the jenadevs [GitHub](https://github.com/jenadevs) account which even offers the [complete presentation](https://github.com/jenadevs/jenadevs-meetup-001-docker-party). _Great news: All material of **jenadevs** is free and will always be open-source!_
+Upfront, all necessary material and code for the workshops was hosted on the jenadevs [GitHub](https://github.com/jenadevs) account which even offers the [complete presentation](https://github.com/jenadevs/jenadevs-meetup-001-docker-party). Great news: _All material of **jenadevs** is free and will always be open-source!_
 
 ### Beginner Workshop
 
