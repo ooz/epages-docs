@@ -10,7 +10,7 @@ authors: ["Benjamin and Oliver Z."]
 On the first Thursday of April the newly founded [Softwerkskammer Jena](https://www.softwerkskammer.org/groups/jena) had its first [Developers Meetup](www.meetup.com/jenadevs). 
 ePages took the opportunity to be the event host and provide not just conference rooms and serveral workstation laptops but also free pizza, snacks, [Club-Mate](https://de.wikipedia.org/wiki/Club-Mate) and some other refreshments for everyone.
 Despite the short notice over 30 attendees from a dozen of companies from the area of Jena, university students and even some freelancers followed the invitation to the Docker Party. 
-They joined the orga team of 8 developers for 4 hours of coding fun from 6 pm until nearly 10 pm with an open end at the local pub, where the devotedly discussions lasted until 2 am in the morning.
+They joined the orga team of 8 developers for 4 hours of coding fun from 6 pm until nearly 10 pm with an open end at the local pub, where the devoted discussions lasted until 2 am in the morning.
 
 ## Agenda
 
@@ -20,16 +20,16 @@ Then the Docker Party, which celebrated the [3rd birthday of Docker](https://www
 It consisted of an one hour talk including a demo to introduce the technological foundation and nearly three hours of different workshops for every skill level:
 
   1. **Beginner:** The official Docker birthday app tutorial
-  - **Advanced:** Building your own Dockerfile with integration tests after best practises
-  - **Special:** CoresOS Cluster Workshop
-  - **Hidden - also known as exploding kittens:** Orchestration Workshop by [Jérôme Petazzoni](https://twitter.com/jpetazzo), the creater of [Docker-in-Docker](https://github.com/jpetazzo/dind) 
+  1. **Advanced:** Building your own Dockerfile with integration tests following best practises
+  1. **Special:** CoresOS Cluster Workshop
+  1. **Hidden - also known as exploding kittens:** Orchestration Workshop by [Jérôme Petazzoni](https://twitter.com/jpetazzo), the creator of [Docker-in-Docker](https://github.com/jpetazzo/dind) 
 
 ## Introduction talk with demo and best practises
 
-The talk in the first place focused on the Docker basics, the components of the Docker ecosystem and the general tooling workflow of building images, running containers and pushing them to the Docker Hub. 
+In the first place the talk focused on the Docker basics, the components of the Docker ecosystem and the general tooling workflow of building images, running containers and pushing them to the Docker Hub. 
 Afterwards the basic commands were demonstrated with some live coding on the terminal, where several containers were also inspected at runtime.
-The second part of the talk considered some best practises for wrtiting your own Dockerfile, which was based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as the experiences of [epagesdevs](http://twitter.com/epagesdevs) with developing, testing, integrating, deploying and running supportive images for our eCommerce platform. 
-This was a good entrypoint to also show some of our typical use cases at ePages, e.g. in the Continuous Delivery Pipeline, at integration testing or in the Operations area for our own and provider infrastructure which also relies on [Kubeneretes](http://kubernetes.io). To finish the talk some typical base images and official app environment images were discussed, too. 
+The second part of the talk considered some best practises for writing your own Dockerfile, which was based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as the experiences of [epagesdevs](http://twitter.com/epagesdevs) with developing, testing, integrating, deploying and running supportive images for our eCommerce platform. 
+This was a good entrypoint to also show some of our typical use cases at ePages, e.g. in the Continuous Delivery Pipeline, for integration testing or in the Operations area for our own and provider infrastructure, which also relies on [Kubeneretes](http://kubernetes.io). To finish the talk some typical base images and official app environment images were discussed, too. 
 
 ## Containers, Containers, Con... err Workshops!
 
@@ -52,14 +52,15 @@ Afterwards Christian Köhler gave an insight on how to configure Kubernetes with
 
 ## Summary 
 
-In retropect the first event of [jenadevs](https://twitter.com/jenadevs) was a total success. Every participant had the possibilty to have fun, meet other devs and learn something new. Besides the beginners, which had the possibility to finish their well-documented tutoial at home, all participants could under the cautious eyes of our tutors finish all workshop tasks with happy results. So it was obvious that a lot of guests went parts of the orga team to the next bar and just talked about the expierience in their developer life, their favorite editors and some more nerdery stuff.
+In retrospect the first event of [jenadevs](https://twitter.com/jenadevs) was a total success. Every participant had the possibilty to have fun, meet other devs and learn something new. Besides the beginners, which had the possibility to finish their well-documented tutoial at home, all participants could under the cautious eyes of our tutors finish all workshop tasks with happy results. So it was obvious that a lot of guests joined parts of the orga team in the local bar and just talked about the expierience in their developer life, their favorite editors and some nerdier stuff.
 
 Thanks to all attendees and ePages coworkers for making this happen!
 
 ## Next Meetup
 
-The goal of the Softwerkskammer Jena is to esablish a plattform for regular meetings. So we already arranged the next Meetup! This time it is going to be a classical [Coderetreat](http://coderetreat.org) with a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) basics talk and demo upfront. Then the participants can choose again between different groups where katas in 45-minute-rounds of [coding dojo](http://ccd-school.de/coding-dojo/) with the application of [constraints](http://coderetreat.org/facilitating/activity-catalog) and [pair programming](https://en.wikipedia.org/wiki/Pair_programming) as well as different team mates per round.
+The goal of the Softwerkskammer Jena is to establish a platform for regular meetings. So we already arranged the next Meetup! This time it is going to be a classical [Coderetreat](http://coderetreat.org) with a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) basics talk and demo upfront. 
+Again the participants will be able to choose between different groups where katas in 45-minute-rounds of [coding dojo](http://ccd-school.de/coding-dojo/) are performed. Under certain [constraints](http://coderetreat.org/facilitating/activity-catalog), in [pairs](https://en.wikipedia.org/wiki/Pair_programming) and with different team mates each round.
 
-We are very happy that [Marco Emrich](https://twitter.com/marcoemrich) from the [Softwerkskammer Nürnberg](https://www.softwerkskammer.org/groups/nuernberg) will join us - one of the best trainers and an experienced Coderetreat facilitators - we cannot imagine anyone better to help the participants understand how to the start with the test first approach!
+We are very happy that [Marco Emrich](https://twitter.com/marcoemrich) from the [Softwerkskammer Nürnberg](https://www.softwerkskammer.org/groups/nuernberg) will join us - one of the best trainers and an experienced Coderetreat facilitators - we cannot imagine anyone better to help the participants understand how to the start with the test-first approach!
 
-Save the date: We are doing this whole-day-event on Saturday, the 21st of May 2016! Feel free to already [join](www.meetup.com/jenadevs). 
+Save the date: We are doing this whole-day event on Saturday, the 21st of May 2016! Feel free to already [join](www.meetup.com/jenadevs).
