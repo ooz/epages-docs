@@ -31,7 +31,7 @@ Afterwards the basic commands were demonstrated with some live coding on the ter
 The second part of the talk considered some best practises for wrtiting your own Dockerfile, which was based on the [official Docker recommendations](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices), tips by [Michael](http://crosbymichael.com/dockerfile-best-practices.html) [Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) as well as the experiences of [epagesdevs](http://twitter.com/epagesdevs) with developing, testing, integrating, deploying and running supportive images for our eCommerce platform. 
 This was a good entrypoint to also show some of our typical use cases at ePages, e.g. in the Continuous Delivery Pipeline, at integration testing or in the Operations area for our own and provider infrastructure which also relies on [Kubeneretes](http://kubernetes.io). To finish the talk some typical base images and official app environment images were discussed, too. 
 
-## Containers, Containers, Con... err Workshops, Workshops, Workshops!
+## Containers, Containers, Con... err Workshops!
 
 Upfront, all necessary material and code for the workshops was hosted on the jenadevs [GitHub](https://github.com/jenadevs) account which even offers the [complete presentation](https://github.com/jenadevs/jenadevs-meetup-001-docker-party). _Great news: All material of **jenadevs** is free and will always be open-source!_
 
