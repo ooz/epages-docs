@@ -39,7 +39,7 @@ Upfront, all necessary material and code for the workshops was hosted on the jen
 
 The goal of the beginner workshop was to setup the Docker environment, learn the basic commands, run the workflow and get familiar with Docker Compose.
 For this the participants followed the [official Docker birthday tutorial](https://github.com/docker/docker-birthday-3/blob/master/tutorial.md) while the more experienced Docker users, Benjamin Nothdurft and Kay Abendroth offered assistance.
-As kittens bustled around the screens, the Docker newbies built simple web applications using the Python microframework [Flask](http://flask.pocoo.org/) -- all running in a container, of course.
+As kittens bustled around the screens, the Docker newbies built simple web applications using the Python microframework [Flask](http://flask.pocoo.org/) – all running in a container, of course.
 
 ### Advanced Workshop
 
