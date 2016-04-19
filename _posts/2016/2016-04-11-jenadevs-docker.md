@@ -58,9 +58,7 @@ Thanks to all attendees and ePages coworkers for making this happen!
 
 ## Next Meetup
 
-The goal of the Softwerkskammer Jena is to esablish a plattform for regular meetings. So we already arranged the next Meetup! 
-
-This time it is going to be a classical [Coderetreat](http://coderetreat.org) with a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) basics talk and demo upfront. Then the participants can choose again between different groups where katas in 45-minute-rounds of [coding dojo](http://ccd-school.de/coding-dojo/) with the application of [constraints](http://coderetreat.org/facilitating/activity-catalog) and [pair programming](https://en.wikipedia.org/wiki/Pair_programming) as well as different team mates per round.
+The goal of the Softwerkskammer Jena is to esablish a plattform for regular meetings. So we already arranged the next Meetup! This time it is going to be a classical [Coderetreat](http://coderetreat.org) with a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) basics talk and demo upfront. Then the participants can choose again between different groups where katas in 45-minute-rounds of [coding dojo](http://ccd-school.de/coding-dojo/) with the application of [constraints](http://coderetreat.org/facilitating/activity-catalog) and [pair programming](https://en.wikipedia.org/wiki/Pair_programming) as well as different team mates per round.
 
 We are very happy that [Marco Emrich](https://twitter.com/marcoemrich) from the [Softwerkskammer Nürnberg](https://www.softwerkskammer.org/groups/nuernberg) will join us - one of the best trainers and an experienced Coderetreat facilitators - we cannot imagine anyone better to help the participants understand how to the start with the test first approach!
 
