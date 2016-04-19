@@ -64,6 +64,4 @@ This time it is going to be a classical [Coderetreat](http://coderetreat.org) wi
 
 We are very happy that [Marco Emrich](https://twitter.com/marcoemrich) from the [Softwerkskammer Nürnberg](https://www.softwerkskammer.org/groups/nuernberg) will join us - one of the best trainers and an experienced Coderetreat facilitators - we cannot imagine anyone better to help the participants understand how to the start with the test first approach!
 
-Save the date: We are doing this whole-day-event on Saturday, the 21st of May 2016! 
-
-Feel free to already [join](www.meetup.com/jenadevs). 
+Save the date: We are doing this whole-day-event on Saturday, the 21st of May 2016! Feel free to already [join](www.meetup.com/jenadevs). 
